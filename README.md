@@ -1,5 +1,5 @@
 # Seus estudos de programação: Uma jornada incrível! 🚀
-Bem-vindo ao meu repositório de estudos de programação! 👋 Neste espaço, documentarei minha jornada de aprendizado em diferentes linguagens de programação, começando com Python e HTML. Prepare-se para uma aventura repleta de código, desafios e conquistas! ✨
+Bem-vindo ao meu repositório de estudos de programação! 👋 Neste espaço, documentarei minha jornada de aprendizado em diferentes linguagens de programação, começando com Python e HTML. ✨
 
 Linguagens em foco:
 
